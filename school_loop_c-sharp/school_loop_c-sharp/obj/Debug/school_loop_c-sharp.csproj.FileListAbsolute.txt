@@ -1,7 +1,0 @@
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\bin\Debug\school_loop_c-sharp.exe.config
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\bin\Debug\school_loop_c-sharp.exe
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\bin\Debug\school_loop_c-sharp.pdb
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\obj\Debug\school_loop_c-sharp.csprojAssemblyReference.cache
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\obj\Debug\school_loop_c-sharp.csproj.CoreCompileInputs.cache
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\obj\Debug\school_loop_c-sharp.exe
-C:\Coding\school_loop_c-sharp\school_loop_c-sharp\obj\Debug\school_loop_c-sharp.pdb
